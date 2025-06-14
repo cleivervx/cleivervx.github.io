@@ -5,4 +5,4 @@ theme = "hugo-theme-m10c"
 autor = 'Cleiver Souza'
 copyright = 'cleiversouza.tech'
 enableRobotsTXT = true
-publishDir = "docs"
+#publishDir = "docs"

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cleiversouza.tech</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on cleiversouza.tech</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <copyright>cleiversouza.tech</copyright>
+    <lastBuildDate>Sat, 14 Jun 2025 20:50:57 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:1313/posts/tools/</link>
+      <pubDate>Sat, 14 Jun 2025 20:50:57 -0300</pubDate>
+      <guid>http://localhost:1313/posts/tools/</guid>
+      <description>&lt;h2 id=&#34;ferramentas-de-scan-de-imagens&#34;&gt;Ferramentas de scan de imagens&lt;/h2&gt;&#xA;&lt;p&gt;teste&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Historia Kernel Linux</title>
+      <link>http://localhost:1313/posts/historia-kernel-linux/</link>
+      <pubDate>Sat, 14 Jun 2025 20:13:23 -0300</pubDate>
+      <guid>http://localhost:1313/posts/historia-kernel-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/posts/hugo/</link>
+      <pubDate>Sat, 14 Jun 2025 19:54:17 -0300</pubDate>
+      <guid>http://localhost:1313/posts/hugo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
