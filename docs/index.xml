@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>pt-br</language>
     <copyright>cleiversouza.tech</copyright>
-    <lastBuildDate>Sat, 14 Jun 2025 19:54:17 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 20:13:23 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historia Kernel Linux</title>
+      <link>http://localhost:1313/posts/historia-kernel-linux/</link>
+      <pubDate>Sat, 14 Jun 2025 20:13:23 -0300</pubDate>
+      <guid>http://localhost:1313/posts/historia-kernel-linux/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hugo</title>
       <link>http://localhost:1313/posts/hugo/</link>
