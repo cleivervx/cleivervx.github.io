@@ -1,0 +1,8 @@
+baseURL = 'https://cleivervx.github.io'
+languageCode = 'pt-br'
+title = 'cleiversouza.tech'
+theme = "hugo-theme-m10c"
+autor = 'Cleiver Souza'
+copyright = 'cleiversouza.tech'
+enableRobotsTXT = true
+publishDir = "docs"

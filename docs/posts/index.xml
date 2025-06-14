@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on cleiversouza.tech</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on cleiversouza.tech</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <copyright>cleiversouza.tech</copyright>
+    <lastBuildDate>Sat, 14 Jun 2025 19:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/posts/hugo/</link>
+      <pubDate>Sat, 14 Jun 2025 19:54:17 -0300</pubDate>
+      <guid>http://localhost:1313/posts/hugo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
