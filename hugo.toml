@@ -1,7 +1,8 @@
 baseURL = 'https://cleivervx.github.io'
 languageCode = 'pt-br'
 title = 'cleiversouza.tech'
-theme = "hugo-theme-m10c"
+#theme = "hugo-theme-m10c"
+theme = "hugo-xterm"
 autor = 'Cleiver Souza'
 copyright = 'cleiversouza.tech'
 enableRobotsTXT = true
