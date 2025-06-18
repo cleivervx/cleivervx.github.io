@@ -1,0 +1,5 @@
+{{ if eq .Type "mermaid" }}
+  <div class="mermaid">{{ .Inner | safeHTML }}</div>
+{{ else }}
+  <pre><code>{{ .Inner | safeHTML }}</code></pre>
+{{ end }}
