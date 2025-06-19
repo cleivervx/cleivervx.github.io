@@ -14,14 +14,14 @@
       <link>http://localhost:1313/posts/carreiras-cyber/</link>
       <pubDate>Sat, 14 Jun 2025 22:09:44 -0300</pubDate>
       <guid>http://localhost:1313/posts/carreiras-cyber/</guid>
-      <description>&lt;h1 id=&#34;teste1&#34;&gt;teste1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;teste2&#34;&gt;teste2&lt;/h2&gt;&#xA;&lt;p&gt;asdasdasd&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Teste&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <description>&lt;h1 id=&#34;teste1&#34;&gt;&#xA;  teste1&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#teste1&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;teste2&#34;&gt;&#xA;  teste2&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#teste2&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;asdasdasd&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Teste&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Tools</title>
       <link>http://localhost:1313/posts/tools/</link>
       <pubDate>Sat, 14 Jun 2025 20:50:57 -0300</pubDate>
       <guid>http://localhost:1313/posts/tools/</guid>
-      <description>&lt;h2 id=&#34;ferramentas-de-scan-de-imagens&#34;&gt;Ferramentas de scan de imagens&lt;/h2&gt;&#xA;&lt;p&gt;teste&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;ferramentas-de-scan-de-imagens&#34;&gt;&#xA;  Ferramentas de scan de imagens&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ferramentas-de-scan-de-imagens&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;teste&lt;/p&gt;</description>
     </item>
     <item>
       <title>Historia Kernel Linux</title>

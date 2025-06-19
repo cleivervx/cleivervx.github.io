@@ -2,7 +2,7 @@
 	path = themes/hermit-v2
 	url = https://github.com/1bl4z3r/hermit-V2
 	branch = main
-[submodule "themes/hugo-blog-awesome"]
-	path = themes/hugo-blog-awesome
-	url = https://github.com/hugo-sid/hugo-blog-awesome.git
-	branch = main
+
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
