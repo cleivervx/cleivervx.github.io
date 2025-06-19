@@ -7,8 +7,3 @@ autor = 'Cleiver Souza'
 copyright = 'cleiversouza.tech'
 enableRobotsTXT = true
 #publishDir = "docs"
-
-[module]
-  [[module.imports]]
-    path = "https://github.com/hugo-sid/hugo-blog-awesome"
-    disable = false
